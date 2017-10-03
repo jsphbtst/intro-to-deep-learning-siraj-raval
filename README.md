@@ -1,0 +1,1 @@
+As part of my journey in #100DaysOfCode, I decided to take on the coding challenges in Siraj Raval's Intro to Deep Learning videos on Youtube. I can't afford the Udacity Deep Learning Foundations nanodegree, so this will have to do. Furthermore, I believe in learning by doing anyway, so this should be more than enough!
